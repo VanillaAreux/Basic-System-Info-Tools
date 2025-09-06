@@ -1,1 +1,1 @@
-These tools are designed for Windows 10 and 11, and feature up to 18+ sections worth of data for viewing. The use cases range from sending diagnostic data to a help fourm, to diagnosing bios issues and/or OS problems.
+These tools are designed for Windows 10 and 11, and feature up to 18+ sections worth of data for viewing. The use cases range from sending diagnostic data to a help fourm, to diagnosing BIOS issues and/or OS problems.
